@@ -10,6 +10,8 @@ List of newest computer vision/deep learning research papers and information in 
     - [Exact Matching](#exact-matching)
     - [Building Dataset](#building-dataset)
 - [Books](#books)
+- [Blogs](#blogs)
+- [Courses](#courses)
 
 ## Papers
 
@@ -36,3 +38,11 @@ List of newest computer vision/deep learning research papers and information in 
 
 ## Books
 * Szeliski, Richard. Computer vision: algorithms and applications. Springer Science & Business Media, 2010.[[book]](http://szeliski.org/Book/drafts/SzeliskiBook_20100903_draft.pdf)
+
+## Blogs
+* A curated list of deep learning resources for computer vision by MIT folks [[link]](https://github.com/kjw0612/awesome-deep-vision)
+* Tombone's Computer Vision Blog [[link]](http://www.computervisionblog.com/)
+
+## Courses
+* Oxford Machine Learning [[link]](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning)
+* Stanford Convolutional Neural Networks for Visual Recognition (CS231n) [[link]](http://cs231n.stanford.edu/)
