@@ -1,4 +1,4 @@
-# computer-vision-in-fashion
+# Computer Vision + Fashion = ?
 List of newest computer vision/deep learning research papers and information in fashion and related areas
 
 ## Contents
