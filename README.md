@@ -17,7 +17,9 @@ List of newest computer vision/deep learning research papers and information in 
 * Liu, Si, et al. "Fashion parsing with video context." IEEE Transactions on Multimedia 17.8 (2015): 1347-1358.[[paper]](https://pdfs.semanticscholar.org/2cbe/d30dcccb78ad18e3fedb30db187bf2ee09e7.pdf)
 
 ### Clothing Parsing
+* Liang, Xiaodan, et al. "Clothes Co-Parsing Via Joint Image Segmentation and Labeling With Application to Clothing Retrieval." IEEE Transactions on Multimedia 18.6 (2016): 1175-1186.[[paper]](http://ss.sysu.edu.cn/~ll/files/TMM_Clothes.pdf)
 * Liu, Si, et al. "Matching-cnn meets knn: Quasi-parametric human parsing." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2015.[[paper]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Liu_Matching-CNN_Meets_KNN_2015_CVPR_paper.pdf)
+* Yang, Wei, Ping Luo, and Liang Lin. "Clothing co-parsing by joint image segmentation and labeling." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2014.[[paper]](http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Yang_Clothing_Co-Parsing_by_2014_CVPR_paper.pdf)
 * Yamaguchi, Kota, et al. "Parsing clothing in fashion photographs." Computer Vision and Pattern Recognition (CVPR), 2012 IEEE Conference on. IEEE, 2012.[[paper]](http://www.referitgame.com/home/publications/parsingclothing.pdf)
 
 ### Patch Similarity
