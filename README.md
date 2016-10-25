@@ -42,6 +42,7 @@ List of newest computer vision/deep learning research papers and information in 
 ## Blogs
 * A curated list of deep learning resources for computer vision by MIT folks [[link]](https://github.com/kjw0612/awesome-deep-vision)
 * Tombone's Computer Vision Blog [[link]](http://www.computervisionblog.com/)
+* Introduction to Neural Net Backpropagation [[link]](http://neuralnetworksanddeeplearning.com/chap2.html)
 
 ## Courses
 * Oxford Machine Learning [[link]](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning)
