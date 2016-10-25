@@ -15,6 +15,10 @@ List of newest computer vision/deep learning research papers and information in 
 
 ## Papers
 
+### Fundamentals
+
+* Lafferty, John, Andrew McCallum, and Fernando Pereira. "Conditional random fields: Probabilistic models for segmenting and labeling sequence data." Proceedings of the eighteenth international conference on machine learning, ICML. Vol. 1. 2001. [[paper]](http://www.seas.upenn.edu/~strctlrn/bib/PDF/crf.pdf)
+
 ### Pose Estimation
 * Liu, Si, et al. "Fashion parsing with video context." IEEE Transactions on Multimedia 17.8 (2015): 1347-1358.[[paper]](https://pdfs.semanticscholar.org/2cbe/d30dcccb78ad18e3fedb30db187bf2ee09e7.pdf)
 
