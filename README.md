@@ -47,6 +47,7 @@ List of newest computer vision/deep learning research papers and information in 
 * A curated list of deep learning resources for computer vision by MIT folks [[link]](https://github.com/kjw0612/awesome-deep-vision)
 * Tombone's Computer Vision Blog [[link]](http://www.computervisionblog.com/)
 * Introduction to Neural Net Backpropagation [[link]](http://neuralnetworksanddeeplearning.com/chap2.html)
+* Introduction to Conditional Random Fields [[link]](http://blog.echen.me/2012/01/03/introduction-to-conditional-random-fields/)
 
 ## Courses
 * Oxford Machine Learning [[link]](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning)
